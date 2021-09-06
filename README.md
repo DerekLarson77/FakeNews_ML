@@ -1,4 +1,4 @@
-As a group we decided to work on classifying Real News vs Fake News with data sourced from Kaggle.  
+We decided to work on classifying Real News vs Fake News with data sourced from Kaggle.  
 We did a couple of different Machine Learning models and settled on one that utilized the NLTK library,  SKLEARN and Python.  
 We put the data through 4 models (Logistic Regression, Naive-Bayes, Decision Tree and Passive Aggressive Classifiers) all of which were at 94% accuracy or higher.
 
