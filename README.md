@@ -11,3 +11,5 @@ the json takes the selected value and finds that in the jsonified data to get th
 The web page was written with html5, bootstrap and CSS. 
 The page has a list of news that the user can select and verify what the different machine learning models are predicting.
 A javascript code will get the results of the machine learning models and place them on the htlm. D3 is being used to parse data.
+
+https://fakenews-ml.herokuapp.com/
