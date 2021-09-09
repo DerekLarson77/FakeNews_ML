@@ -13,3 +13,5 @@ The page has a list of news that the user can select and verify what the differe
 A javascript code will get the results of the machine learning models and place them on the htlm. D3 is being used to parse data.
 
 https://fakenews-ml.herokuapp.com/
+
+![image](https://user-images.githubusercontent.com/80318883/132773632-032ca4ee-6bd7-4f91-9a34-a1de2726b02b.png)
